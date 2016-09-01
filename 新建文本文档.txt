@@ -1,19 +1,5 @@
 1234567890
 aaaaa
 
-ASDFGHJKL
-<<<<<<< HEAD
-
-FFF
-ddd
-
-ffff
-
-=======
-ZXCVBNM
->>>>>>> 4e648f18e24ac758834067ce352673170f65fb91
-
-ddd
-KKKKKKKKKK
-ffff
+LJKHJHFHJKJK
 hhhh
